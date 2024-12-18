@@ -1,0 +1,3 @@
+[submodule "common/test"]
+	path = common/test
+	url = git@github.com:nguyenhieu8790/test001.git
